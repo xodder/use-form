@@ -1,6 +1,7 @@
 {
   "name": "@xod/use-form",
   "version": "1.0.0",
+  "type": "commonjs",
   "description": "A simple form state + validation hook, integrates with mui textfields",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
